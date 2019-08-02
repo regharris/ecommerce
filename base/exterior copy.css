@@ -1,0 +1,106 @@
+body {
+    background: radial-gradient(rgb(28, 66, 97), black);
+    position: relative;
+  }
+  
+  .nav {
+      text-align: center;
+      font-size: 35;
+      padding: 0px;
+      font-size: 26px;
+      font-family: 'Nunito', sans-serif;
+      background: radial-gradient(black, rgb(71, 71, 71));
+      }
+      .sub-text {
+     margin-left: 600px;
+     color: white;
+     padding-top: 20px;
+     font-family: 'Pacifico', cursive;
+      }
+  a:hover {
+      color: white;
+  }
+  h1 {
+      text-align: center;
+      color: white;
+      padding-top: 30px;
+      padding-bottom: 30px;
+      font-family: 'Pacifico', cursive;
+  }
+  .border-body {
+    background: radial-gradient(slategray, black);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-bottom: 60px;
+    border-radius: 5%;
+  }
+  .content-box {
+      text-align: center;
+      font-size: 22px;
+      color: white;
+      background:radial-gradient(rgb(71, 71, 71));
+      padding: 0px;
+      display: flex;
+      border-top: 1px lightblue;
+      
+  }
+  .card-deck {
+    padding-right: 100px;
+    padding-left: 100px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.card {
+    height: 650px;
+    width: 400px;
+}
+.card-text {
+    font-family: 'Nunito', sans-serif;
+}
+.card-img img{
+    height: 400px;
+    width: 300px;
+}
+.card-title {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+.btn-primary {
+    padding: 5px;
+    margin-top: 15px;
+    margin-left: 35%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+  .footer-bar {
+    height: 275px;
+    margin-top: 5px;
+    width: 100%;
+    border-top:solid black 45px;
+    background-color: rgb(44, 44, 44);
+    border-bottom: solid steelblue 15px;
+    display: flex;
+    position: relative;
+    }
+   
+    .social-icon {
+        height:60px;
+        width: 60px;
+        display: inline-block;
+        margin-top: 110px;
+        margin-left: 80px;
+     }
+    .footer-title {
+           color: white;
+           margin-left: 120px;
+           font-family: 'Pacifico', cursive;
+           font-size: 35px;
+           display: flex;
+           margin-top: 40px;
+           padding: 0px;
+           display: flex;
+           margin-bottom: 160px;
+           
+       }

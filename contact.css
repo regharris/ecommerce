@@ -1,0 +1,95 @@
+body {
+    background: linear-gradient(black,rgb(28, 66, 97));
+    position: relative;
+  }
+  
+  .nav {
+      text-align: center;
+      font-size: 35;
+      padding: 0px;
+      font-size: 26px;
+      font-family: 'Nunito', sans-serif;
+      
+      
+  }
+  a:hover {
+      color: white;
+  }
+  .content-box {
+      text-align: center;
+      font-size: 22px;
+      color: white;
+      padding: 0px;
+      display: flex;
+      border-top: 1px lightblue;
+      font-family: 'Pacifico', cursive;
+      margin-left: 600px;
+      padding-top: 25px;
+      
+      }
+
+      h1 {
+          text-align: center;
+          font-family: 'Pacifico', cursive;
+          padding-top: 55px; 
+          color: white;
+          background: radial-gradient( slategray, black);
+          border-radius: 50%;
+          padding: 20px;
+          margin-right: 400px;
+          margin-left: 400px;
+          
+      }
+      .hero img {
+    padding-bottom: 50px;
+      }
+  .footer-bar {
+    height: 275px;
+    margin-top: 5px;
+    width: 100%;
+    border-top:solid black 45px;
+    background-color: rgb(44, 44, 44);
+    border-bottom: solid steelblue 15px;
+    display: flex;
+    position: relative;
+    }
+
+    form {
+    margin: 100px;
+    background: radial-gradient( slategray, steelblue);
+    padding: 35px;
+    border-radius: 15%;
+    }
+   
+    .social-icon {
+        height:60px;
+        width: 60px;
+        display: inline-block;
+        margin-top: 110px;
+        margin-left: 80px;
+       
+        
+       }
+       .footer-title {
+           
+           color: white;
+           margin-left: 120px;
+           font-family: 'Pacifico', cursive;
+           font-size: 35px;
+           display: flex;
+           margin-top: 40px;
+           padding: 0px;
+           display: flex;
+           margin-bottom: 160px;
+           
+       }
+       p{
+           padding-right: 25px;
+       }
+       textarea {
+           padding-top: 40px;
+       }
+       .btn-primary {
+           margin-left: 235px;
+           margin-top: 35px;
+       }

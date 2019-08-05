@@ -1,0 +1,110 @@
+body {
+    background: radial-gradient(rgb(28, 66, 97), black);
+    position: relative;
+  }
+  
+  .nav {
+      text-align: center;
+      font-size: 35;
+      padding: 0px;
+      font-size: 26px;
+      font-family: 'Nunito', sans-serif;
+      background: radial-gradient(black, rgb(71, 71, 71));
+      
+  }
+  a:hover {
+      color: white;
+  }
+  .content-box {
+      text-align: center;
+      font-size: 22px;
+      color: white;
+      background:radial-gradient(rgb(71, 71, 71));
+      padding: 0px;
+      display: flex;
+      border-top: 1px lightblue;
+}
+.sub-text {
+    margin-left: 600px;
+    font-family: 'Pacifico', cursive;
+    padding-top: 10px;
+}
+h1 {
+    color: white;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    padding-bottom: 40px;
+}
+.border-body {
+    background-color: aquamarine;
+    margin-right: 80px;
+    margin-left: 80px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 40px;
+    background: radial-gradient(slategray, black);
+    border-radius: 5%;
+}
+.card-deck {
+    margin-top: 50px;
+    padding-right: 160px;
+    padding-left: 160px;
+    margin-bottom: 100px;
+}
+.card {
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.card-text {
+    font-family: 'Nunito', sans-serif;
+}
+.card-img img{
+    height: 400px;
+    width: 300px;
+}
+.card-title {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+.btn-primary {
+    padding: 5px;
+    margin-top: 15px;
+    margin-left: 35%;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+  .footer-bar {
+    height: 275px;
+    margin-top: 5px;
+    
+    width: 100%;
+    border-top:solid black 45px;
+    background-color: rgb(44, 44, 44);
+    border-bottom: solid steelblue 15px;
+    display: flex;
+    position: relative;
+    }
+   
+    .social-icon {
+        height:60px;
+        width: 60px;
+        display: inline-block;
+        margin-top: 110px;
+        margin-left: 80px;
+       
+        
+       }
+       .footer-title {
+           
+           color: white;
+           margin-left: 120px;
+           font-family: 'Pacifico', cursive;
+           font-size: 35px;
+           display: flex;
+           margin-top: 40px;
+           padding: 0px;
+           display: flex;
+           margin-bottom: 160px;
+           
+       }
